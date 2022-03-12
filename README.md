@@ -1,2 +1,4 @@
 # Example of README
-test data analysis
+
+# Katsiada
+Exams: data analysis
